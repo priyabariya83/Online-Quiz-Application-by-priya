@@ -1,0 +1,20 @@
+Which language is used to develop Android apps?
+A) Python
+B) C++
+C) Java
+D) HTML
+C
+
+Which data structure uses FIFO?
+A) Stack
+B) Queue
+C) Tree
+D) Graph
+B
+
+What is the size of int in C++?
+A) 2 bytes
+B) 4 bytes
+C) 8 bytes
+D) Depends on OS
+B
